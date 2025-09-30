@@ -20,3 +20,7 @@ Este é um projeto de uma calculadora funcional para a web, criado como parte do
 ## Aprendizados
 
 O principal desafio e aprendizado deste projeto foi a substituição da função `eval()` por um algoritmo próprio de parsing e cálculo de expressões. Isso aprofundou meus conhecimentos em manipulação de arrays e na implementação de algoritmos para resolver um problema com uma lógica bem definida.
+
+## Link do Deploy
+
+https://juaomp.github.io/Calculadora-Web
